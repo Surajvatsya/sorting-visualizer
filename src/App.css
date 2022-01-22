@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.frame {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  height: 200px;
+  margin: 5em 0;
+}
+
+.card {
+  border-radius: 2em;
+  padding: 0 1em;
+  background: #152238;
+}
+
+.sortbtn{
+  background-color: crimson;
+  color: #e7eef0;
+  padding: 10px;
+  cursor: pointer;
+  margin: 30px;
+  text-shadow: #282c34;
+font-size: larger;
+font-weight: bold;
+}
+.sortbtn::hover{
+  background-color: #b6dde7;
+  color: crimson;
+}
