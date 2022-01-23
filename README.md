@@ -1,4 +1,6 @@
-
+# ---------------------- ⭐ Sorting Visualizer  ⭐------------------------
+<br>
+<br>
 
 ## Objective
 Create a web application using React to visualize how various sorting
@@ -18,21 +20,21 @@ algorithms.
 which basically indicates the array that we will sort. Through these bars, we will visualize
 how sorting algorithms work.
 
-##Requirement
-• In the JS file just create an array and push 100 numbers.
+## Requirement
+• In the JS file just create an array and push 10 numbers.\
 • Create array elements using a random function, convert those numbers to an integer
-number in the range 50-200 (you may take any range).
-• The array integers should be the height of bars.
-• Now inside the App component under the render function  where we will be placing all the bars' components.
-• Now coming to the JS file we will create 10 div elements (creating elements using JS).
+number in the range 50-200 (you may take any range).\
+• The array integers should be the height of bars.\
+• Now inside the App component under the render function  where we will be placing all the bars' components.\
+• Now coming to the JS file we will create 10 div elements (creating elements using JS).\
 • Using JS add a particular className to all divs (so that we can add styles to all the div in CSS)
 and all divs will have different heights equal to array elements (choose an appropriate
-scale) (Changing the CSS property using JS).
-• Push every bar in that particular div.
-• Wrap all this in a function and make a call to that function.
+scale) (Changing the CSS property using JS).\
+• Push every bar in that particular div.\
+• Wrap all this in a function and make a call to that function.\
 • Also, add event listeners to the new array button and inside that call the function. So
 that you can use that button to create a new bar every time without refreshing the
-page.
+page.\
 • In the CSS file, you can add styles to the bars inside the class for bars.
 
 ## Implementing Bubble Sort Algorithm
@@ -65,4 +67,4 @@ your project.
 Host your app live using Heroku.
 
 
-##                                                      ❤️🎉⭐🎉❤️
+###                                                      ❤️🎉⭐🎉❤️
