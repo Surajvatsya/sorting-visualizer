@@ -77,7 +77,7 @@ class App extends Component {
 		this.setState({ colorKey: blank, colors: [blank] });
 	};
   refresh = () =>{
-		window.location.reload();
+		this.generateElements();
  }
 	generateElements = () => {
     this.clearTimeouts();
