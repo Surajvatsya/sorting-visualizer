@@ -1,4 +1,4 @@
-# ---------------------- ⭐ Sorting Visualizer  ⭐------------------------
+# <pre>                 ⭐ Sorting Visualizer  ⭐ </pre>
 <br>
 <br>
 
